@@ -1,2 +1,2 @@
-# GO---JobScrapper
+# GO-JobScrapper
 GO - JobScrapper 
